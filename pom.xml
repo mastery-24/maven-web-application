@@ -100,14 +100,14 @@
 	
 	    <repository>
 	      <id>nexus</id>
-	      <name>Mithun Technologies Releases Nexus Repository</name>
-	      <url>http://18.218.194.44:8081/repository/flipkart-release/</url>
+	      <name>Flipkart Nexus Release Repository</name>
+	      <url>http://13.126.226.53:8081/repository/flipkart-release/</url>
 	    </repository>
 	    
 	    <snapshotRepository>
 	      <id>nexus</id>
-	      <name>Mithun Technologies Snapshot Nexus Repository </name>
-	      <url>http://18.218.194.44:8081/repository/flipkart-snapshot/</url>
+	      <name>Flipkart Nexus Snapshot Repository</name>
+	      <url>http://13.126.226.53:8081/repository/flipkart-snapshot/</url>
 	    </snapshotRepository>
 	    
 	</distributionManagement>
